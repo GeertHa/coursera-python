@@ -23,4 +23,3 @@ Interestingly, the kinds of things computers can do best
 are often the kinds of things that we humans find boring
 and mind-numbing.
 
-This an extra line for the words text.
